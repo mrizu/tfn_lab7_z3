@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Mozilla Firefox",
+    "description": "Mozilla firefox is an open-source web browser developed by Mozilla.",
+    "img": "https://www.mozilla.org/media/img/structured-data/logo-firefox-browser.fbc7ffbb50fd.png",
+    "img_alt" : "firefox_logo"
+  },
+  {
+    "name": "Google Chrome",
+    "description": "Google Chrome is a web browser developed by Google.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/2048px-Google_Chrome_icon_%28February_2022%29.svg.png",
+    "img_alt" : "chrome_logo"
+  },
+  {
+    "name": "Microsoft Edge",
+    "description": "Microsoft Edge's main function is to download another browser.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Microsoft_Edge_logo_%282019%29.svg/480px-Microsoft_Edge_logo_%282019%29.svg.png",
+    "img_alt" : "edge_logo"
+  }
+]
