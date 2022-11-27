@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tfn_lab7_z3/static/css/main.4cce30e7.css",
+    "main.js": "/tfn_lab7_z3/static/js/main.29f0a146.js",
+    "index.html": "/tfn_lab7_z3/index.html",
+    "main.4cce30e7.css.map": "/tfn_lab7_z3/static/css/main.4cce30e7.css.map",
+    "main.29f0a146.js.map": "/tfn_lab7_z3/static/js/main.29f0a146.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cce30e7.css",
+    "static/js/main.29f0a146.js"
+  ]
+}
